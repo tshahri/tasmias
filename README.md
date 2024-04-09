@@ -1,9 +1,9 @@
 # tasmias.github.io
 
 ### Education
-PhD Candidate in Computer Science, North Carolina State University (Current)
-MSc. in Computer Science, North Carolina State University (May, 2024)
-BSc. in Computer Science, Bangladesh University of Engineering and Technology (Feb, 2017)
+- PhD Candidate in Computer Science, North Carolina State University (Current)
+- MSc. in Computer Science, North Carolina State University (May, 2024)
+- BSc. in Computer Science, Bangladesh University of Engineering and Technology (Feb, 2017)
 
 ### Publications
 - big paper 1
