@@ -1,4 +1,4 @@
-# Tasmia Shahriar
+
 ### Education
 - PhD Candidate in Computer Science, North Carolina State University (Expected in 06/2024)
 - MSc. in Computer Science, North Carolina State University (May, 2024)
