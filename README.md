@@ -1,5 +1,4 @@
-# tasmias.github.io
-
+# Tasmia Shahriar
 ### Education
 - PhD Candidate in Computer Science, North Carolina State University (Current)
 - MSc. in Computer Science, North Carolina State University (May, 2024)
